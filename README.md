@@ -13,14 +13,12 @@
 <br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyavenkatesan&theme=tokyonight" />
+  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowmiya-venkatesan&show_icons=true&theme=tokyonight" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiya-venkatesan&show_icons=true&theme=tokyonight" />
-   
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiyavenkatesan&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiya-venkatesan&show_icons=true&theme=tokyonight" />
 </p>
-<p align="center">
 
-</p>
 
 <br> 
 <h3 align="center">Testimonials</h3>
