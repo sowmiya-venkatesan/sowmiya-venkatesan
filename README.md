@@ -47,10 +47,10 @@
 <h2 align="center">Connect with me on </h2>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/sowmiyavenkatesan/"><img width="2%" margin: "16px” padding:"0.5%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" /></a>
-  <a target="_blank" href="https://www.behance.net/sowmiyavenkatesan/"><img width="2%" margin: "16px” padding:"0.5%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/behance.svg" /></a>
-  <a target="_blank"  href="https://twitter.com/sowmiya0611/"><img width="2%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg" /></a>
-  <a target="_blank" href="https://www.instagram.com/sowmiya_dezigner/"><img width="2%" margin: "16px”  padding:"0.5%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/sowmiyavenkatesan/"><img width="2%" margin: "16px” padding:"0.5%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" /></a> &nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.behance.net/sowmiyavenkatesan/"><img width="2%" margin: "16px” padding:"0.5%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/behance.svg" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"  href="https://twitter.com/sowmiya0611/"><img width="2%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.instagram.com/sowmiya_dezigner/"><img width="2%" margin: "16px”  padding:"0.5%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" /></a>&nbsp;&nbsp;
   
 </p>
 
