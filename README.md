@@ -43,6 +43,11 @@
   </tr>
   </table>
 <h3 align="center">❞</h3>
+  
+ <p align="center"> 
+  Visitors(from Jun 18, 2021):<br>
+  <img src="https://profile-counter.glitch.me/vijay-jaisankar/count.svg" />
+</p>
 
 <h2 align="center">Connect with me on </h2>
 
