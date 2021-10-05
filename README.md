@@ -11,6 +11,8 @@
 </p>
 
 <br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmiya-venkatesan&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya-venkatesan" /> </p>
+<br>
 
 <p align="center">
   
@@ -55,6 +57,5 @@
   
 </p>
 
-Visitor Count:
 
-![Visitor Count](https://profile-counter.glitch.me/sowmiya-venkatesan/count.svg) 
+
