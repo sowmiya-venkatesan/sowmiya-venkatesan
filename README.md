@@ -10,10 +10,6 @@
   </ul></b>
 </p>
 
-<br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmiya-venkatesan&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya-venkatesan" /> </p>
-<br>
-
 <p align="center">
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowmiya-venkatesan&show_icons=true&theme=tokyonight" />
@@ -57,5 +53,10 @@
   
 </p>
 
+<p align="center">
+<br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmiya-venkatesan&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya-venkatesan" /> </p>
+<br>
+</p>
 
 
