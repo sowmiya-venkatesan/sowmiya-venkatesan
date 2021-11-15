@@ -47,13 +47,13 @@
 
 
 <br>
-<p align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-Sowmiya%20V-blue?style=flat-square&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/sowmiyavenkatesan/)](https://www.linkedin.com/in/sowmiyavenkatesan)
 [![Instagram Badge](https://img.shields.io/badge/-sowmiya_dezigner-purple?style=flat-square&logo=instagram&logoColor=000000&link=https://instagram.com/sowmiya_dezigner/)](https://instagram.com/sowmiya_dezigner)
 [![Behance Badge](https://img.shields.io/badge/-@im_sowmiya-blue?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/im_sowmiya/)] (https://twitter.com/im_sowmiya)
 [![Behance Badge](https://img.shields.io/badge/-sowmiya%20venkatesan-blue?style=flat-square&labelColor=000000&logo=Behance&link=https://www.behance.net/sowmiyavenkatesan/)] (https://www.behance.net/sowmiyavenkatesan)
 
-</p>
+
 
 <br>
   <p align="centre"> <img src="https://komarev.com/ghpvc/?username=sowmiya-venkatesan&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya-venkatesan" /> </p>
