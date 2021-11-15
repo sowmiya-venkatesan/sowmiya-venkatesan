@@ -43,7 +43,7 @@
 <h3 align="center">❞</h3>
  
 
-<h2 align="center">Connect with me on </h2>
+<h3 align="right">Connect with me on </h3>
 
 
 <br>
