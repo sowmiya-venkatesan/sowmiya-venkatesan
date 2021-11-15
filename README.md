@@ -56,7 +56,8 @@
 
 
 <br>
-  <p align="centre"> <img src="https://komarev.com/ghpvc/?username=sowmiya-venkatesan&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya-venkatesan" />&nbsp;&nbsp;</a> <a href="https://twitter.com/im_sowmiya"><img src="https://img.shields.io/twitter/follow/im_sowmiya?style=social"></a>&nbsp;&nbsp; </p>
+  <p align="centre"> <img src="https://komarev.com/ghpvc/?username=sowmiya-venkatesan&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya-venkatesan" />&nbsp;&nbsp;</a> <a href="https://twitter.com/im_sowmiya"><img src="https://img.shields.io/twitter/follow/im_sowmiya?style=social"></a>&nbsp;&nbsp;
+  <a href="https://img.shields.io/badge/-Sowmiya%20V-blue?style=flat-square&logo=Linkedin&logoColor=fffffff&link=https://www.linkedin.com/in/sowmiyavenkatesan/"></a>&nbsp;&nbsp;</p>
 
 
 
