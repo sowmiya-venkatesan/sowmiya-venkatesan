@@ -45,14 +45,15 @@
 
 <h2 align="center">Connect with me on </h2>
 
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/sowmiyavenkatesan/"><img width="2%" margin: "16px” padding:"0.5%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" /></a> &nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.behance.net/sowmiyavenkatesan/"><img width="2%" margin: "16px” padding:"0.5%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/behance.svg" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"  href="https://twitter.com/im_sowmiya/"><img width="2%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/twitter.svg" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.instagram.com/sowmiya_dezigner/"><img width="2%" margin: "16px”  padding:"0.5%" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/instagram.svg" /></a>&nbsp;&nbsp;
-  
-</p>
 
+<br>
+<p align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-Sowmiya%20V-blue?style=flat-square&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/sowmiyavenkatesan/)](https://www.linkedin.com/in/sowmiyavenkatesan)
+[![Instagram Badge](https://img.shields.io/badge/-sowmiya_dezigner-purple?style=flat-square&logo=instagram&logoColor=000000&link=https://instagram.com/sowmiya_dezigner/)](https://instagram.com/sowmiya_dezigner)
+[![Behance Badge](https://img.shields.io/badge/-@im_sowmiya-blue?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/im_sowmiya/)] (https://twitter.com/im_sowmiya)
+[![Behance Badge](https://img.shields.io/badge/-sowmiya%20venkatesan-blue?style=flat-square&labelColor=000000&logo=Behance&link=https://www.behance.net/sowmiyavenkatesan/)] (https://www.behance.net/sowmiyavenkatesan)
+
+</p>
 
 <br>
   <p align="centre"> <img src="https://komarev.com/ghpvc/?username=sowmiya-venkatesan&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya-venkatesan" /> </p>
